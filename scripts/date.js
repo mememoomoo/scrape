@@ -1,0 +1,1 @@
+//Create date function that gives the date the note was created. Import moments.

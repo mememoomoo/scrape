@@ -6,10 +6,6 @@ const headlineSchema = new Schema({
         required: true,
         unique: true
     },
-    summary: {
-        type: String,
-        required: true
-    },
     date: String,
     saved: {
         type: Boolean,
